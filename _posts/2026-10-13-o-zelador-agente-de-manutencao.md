@@ -2,8 +2,10 @@
 title: "O Zelador: como a Creditas colocou um agente de IA para cuidar do que ninguém prioriza"
 description: "Manutenção não fica para trás por falta de consciência: ela disputa capacity com o roadmap, e perde. Construí um agente que opera fora dessa disputa. Em quatro semanas ele entregou 224 PRs, com 99% do esforço em teste, correção, refatoração e segurança, e levou a cobertura de um serviço de 62% para 96,7%."
 tags: [ia, agentes-de-ia, engenharia, manutencao, automacao]
+image: /assets/img/posts/zelador-og.png
 ---
 
+![O funil do Zelador, do discovery ao merge. Código-fonte, Dependabot, SAST e Datadog alimentam o Discovery, que abre issues de alto sinal. O Refinement transforma cada issue numa spec. A Orchestration prioriza respeitando o WIP. O Development implementa, builda e revisa. Com o pull request aberto, dois fluxos reagem sozinhos até ele ficar verde: um conserta o CI, outro responde ao review. No fim, a merge queue faz o auto-merge.](/assets/img/posts/zelador-capa.png)
 
 *Publicado originalmente no [LinkedIn](https://www.linkedin.com/pulse/o-zelador-como-creditas-colocou-um-agente-de-ia-para-cuidar-saraiva-8bxrf/) em 13/10/2026.*
 
