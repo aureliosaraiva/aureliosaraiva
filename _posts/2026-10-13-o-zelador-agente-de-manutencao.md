@@ -4,18 +4,6 @@ description: "Manutenção não fica para trás por falta de consciência: ela d
 tags: [ia, agentes-de-ia, engenharia, manutencao, automacao]
 ---
 
-<!--
-RASCUNHO — não é publicado. Arquivos em _drafts/ ficam fora do site.
-Para publicar: mova para _posts/ com a data no nome,
-ex.: _posts/2026-10-13-o-zelador-agente-de-manutencao.md
-
-Pendente antes de publicar:
-1. Imagem de capa e og image. Os outros posts têm, este não. O padrão é
-   assets/img/posts/<slug>-capa.png e -og.png, com o campo `image` no
-   frontmatter apontando para a og.
-2. O Medium ainda não foi publicado. Quando for, acrescente o link dele à
-   linha de crédito abaixo.
--->
 
 *Publicado originalmente no [LinkedIn](https://www.linkedin.com/pulse/o-zelador-como-creditas-colocou-um-agente-de-ia-para-cuidar-saraiva-8bxrf/) em 13/10/2026.*
 
