@@ -12,6 +12,10 @@ author:
   linkedin: aureliosaraiva
   x: aureliosaraiva
 
+# Medição de audiência. O layout só injeta o gtag quando
+# jekyll.environment == production, para que build local não polua a série.
+google_analytics: G-Z3X38S68YS
+
 permalink: /blog/:year/:month/:title/
 markdown: kramdown
 kramdown:
